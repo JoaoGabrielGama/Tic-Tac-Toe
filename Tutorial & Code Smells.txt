@@ -1,0 +1,12 @@
+Tutorial para Execução:
+- Importar para Eclipse.
+
+OBS: Em alguns computadores é necessário recompilar os arquivos.
+
+Code Smells encontrados:
+
+- Duplicated Code
+- Long Expression
+- Lazy Class
+
+Aluno: João Gabriel Gama Vila Nova
